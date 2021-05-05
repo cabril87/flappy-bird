@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+      flex: 1;
+      background-color: pink;
+      align-items: center;
+      justify-content: center;
+      margin: 0;
+      width:500px;
+      height: 500px;
+}
